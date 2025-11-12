@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02d3da4b.css",
+    "main.js": "/static/js/main.0807195c.js",
+    "static/media/features-bg.png": "/static/media/features-bg.a0c75c84c6217e8c0e46.png",
+    "static/media/testimonials-bubbles.png": "/static/media/testimonials-bubbles.159d51af48a73c3e2581.png",
+    "static/media/get-app-bg.png": "/static/media/get-app-bg.7d4f3c59b6ee50b77728.png",
+    "static/media/couple-safety.png": "/static/media/couple-safety.ee4ebf5f59e39a236c07.png",
+    "static/media/how-it-works.png": "/static/media/how-it-works.c1e0631279e932bdb7a1.png",
+    "static/media/hero-img-5.png": "/static/media/hero-img-5.ab682f99a5fc6d4d917e.png",
+    "static/media/hero-img-2.png": "/static/media/hero-img-2.71eef3e7980a334bb323.png",
+    "static/media/hero-img-6.png": "/static/media/hero-img-6.7098e0cbd47f8ba12ebc.png",
+    "static/media/hero-img-1.png": "/static/media/hero-img-1.8c217bc0bb3f0510159c.png",
+    "static/media/hero-img-3.png": "/static/media/hero-img-3.4e3b7c04d8b59195fc66.png",
+    "static/media/hero-img-4.png": "/static/media/hero-img-4.6878df0f93b8404e2c5d.png",
+    "static/media/logo.png": "/static/media/logo.c9fe874376dc6545480f.png",
+    "index.html": "/index.html",
+    "main.02d3da4b.css.map": "/static/css/main.02d3da4b.css.map",
+    "main.0807195c.js.map": "/static/js/main.0807195c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02d3da4b.css",
+    "static/js/main.0807195c.js"
+  ]
+}
