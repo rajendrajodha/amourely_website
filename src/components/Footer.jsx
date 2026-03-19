@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import logo from "../images/logo.png";
 
 function Footer() {
@@ -8,9 +9,9 @@ function Footer() {
         <div className="row">
           <div className="col-lg-6">
             <div className="footer-logo">
-              <a href="#" title="Go to homepage" aria-label="Homepage">
+              <Link to="/" title="Go to homepage" aria-label="Homepage">
                 <img src={logo} alt="Amourely Logo" className="logo m-auto" />
-              </a>
+              </Link>
             </div>
           </div>
 
@@ -90,31 +91,31 @@ function Footer() {
                 <h6 className="heading-6">Legal</h6>
                 <ul className="footer-menu">
                   <li className="menu-item">
-                    <a
-                      href="#"
+                    <Link
+                      to="/terms"
                       title="Read our terms and conditions"
                       aria-label="Terms and Conditions"
                     >
                       Terms & Conditions
-                    </a>
+                    </Link>
                   </li>
                   <li className="menu-item">
-                    <a
-                      href="#"
+                    <Link
+                      to="/privacy-policy"
                       title="Review our privacy policy"
                       aria-label="Privacy Policy"
                     >
                       Privacy Policy
-                    </a>
+                    </Link>
                   </li>
                   <li className="menu-item">
-                    <a
-                      href="#"
+                    <Link
+                      to="/community-guidelines"
                       title="Understand community rules"
                       aria-label="Community Guidelines"
                     >
                       Community Guidelines
-                    </a>
+                    </Link>
                   </li>
                 </ul>
               </div>
